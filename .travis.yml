@@ -1,2 +1,6 @@
 language: node_js
 node_js: -"13.9.0"
+
+env:
+  - MY_VAR=HELLO
+  - NODE_ENV=TEST
