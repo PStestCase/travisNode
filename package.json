@@ -1,5 +1,5 @@
 {
-  "name": "Travis with Node",
+  "name": "TNode",
   "description": "Simple Travis-CI check for JSHint (Code Linting)",
   "author": "Divy",
   "version": "0.0.1",
